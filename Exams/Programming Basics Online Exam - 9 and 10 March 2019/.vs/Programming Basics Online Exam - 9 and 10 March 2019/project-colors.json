@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45d1f172-f75e-4497-b787-d59eb91f4c50": {
+      "ProjectGuid": "45d1f172-f75e-4497-b787-d59eb91f4c50",
+      "DisplayName": "P01. Basketball Equipment",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
